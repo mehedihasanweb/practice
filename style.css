@@ -1,0 +1,11 @@
+.banner-section{
+    background-image: url(banner_1.png);
+    height: 500px;
+    border-radius: 10px;
+}
+
+
+
+footer{
+    background: rgba(255, 193, 7, 0.05);
+}
